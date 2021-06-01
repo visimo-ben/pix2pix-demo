@@ -1,0 +1,9 @@
+*.pyc
+tags
+test
+models
+.idea
+train
+Pipfile*
+test_output
+tf-logs
